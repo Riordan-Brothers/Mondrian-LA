@@ -1,0 +1,33 @@
+Crosspoint listing for C:\Crestron\Archive Projects\Mondrian LA\SIMPL\Mondrian Hotel Lighting v1.0.3.SMW
+
+Note:  Crosspoint symbols with EquipID or ControlID set to 0d are not routeable.
+
+Equipment Crosspoint Routing.                                                                       EquipID
+===========================================================================================================
+S-4.1.1                                                                                             257
+S-4.2.1                                                                                             258
+S-4.3.1                                                                                             259
+S-4.4.1                                                                                             260
+S-4.5.1                                                                                             261
+S-6.1 in macro S-5.1.1.1 (Module File C:\Crestron\Archive Projects\Mondrian LA\SIMPL\RBI P          1280
+C Equip v6.umc)                                                                                     
+S-6.1 in macro S-5.1.2.1 (Module File C:\Crestron\Archive Projects\Mondrian LA\SIMPL\RBI P          1281
+C Equip v6.umc)                                                                                     
+S-6.1 in macro S-5.1.3.1 (Module File C:\Crestron\Archive Projects\Mondrian LA\SIMPL\RBI P          1282
+C Equip v6.umc)                                                                                     
+S-6.1 in macro S-5.1.4.1 (Module File C:\Crestron\Archive Projects\Mondrian LA\SIMPL\RBI P          1283
+C Equip v6.umc)                                                                                     
+
+Control Crosspoint Routing.                                                                         ControlID
+=============================================================================================================
+S-3.4.11.1                                                                                          80
+S-3.5.11.1                                                                                          81
+S-2.1 in macro S-3.4.12.1 (Module File C:\Crestron\Archive Projects\Mondrian LA\SIMPL\RBI           336
+PC Control v6.umc)                                                                                  
+S-2.1 in macro S-3.5.12.1 (Module File C:\Crestron\Archive Projects\Mondrian LA\SIMPL\RBI           337
+PC Control v6.umc)                                                                                  
+S-1 in macro S-3.4.13.1 (Module File C:\Crestron\Archive Projects\Mondrian LA\SIMPL\RBI Co          592
+lor Picker Helper Panel v1.umc)                                                                     
+S-1 in macro S-3.5.13.1 (Module File C:\Crestron\Archive Projects\Mondrian LA\SIMPL\RBI Co          593
+lor Picker Helper Panel v1.umc)                                                                     
+

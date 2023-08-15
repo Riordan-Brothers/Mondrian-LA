@@ -1,0 +1,22 @@
+<Device Model="DIN-AP4">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="11" Name="CLX-2DIMU8"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="12" Name="CLX-2DIMU8"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="13" Name="CLX-2DIMU8"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="14" Name="CLX-2DIMU8"/>
+      <Device Model="CLX-1DIMU4,CLX-1DIMU4-HP" DeviceId="15" Name="CLX-1DIMU4(-HP)"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="16" Name="CLX-2DIMU8"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="17" Name="CLX-2DIMU8"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="18" Name="CLX-2DIMU8"/>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="19" Name="CLX-2DIMU8"/>
+      <Device Model="C2N-CBD-P" DeviceId="26" Name="hall 2b"/>
+      <Device Model="C2N-CBD-P" DeviceId="27" Name="coffee bar 7b"/>
+      <Device Model="GLS-SIM" DeviceId="93" Name="lobby lol"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="TSW-750" DeviceId="03"/>
+      <Device Model="TSW-770" DeviceId="06"/>
+      <Device Model="Core3 UI XPanel" DeviceId="10" Name="XPanel 2.0 Smart Graphics"/>
+      <Device Model="Crestron_App" DeviceId="11" Name="Crestron App"/>
+   </Network>
+</Device>
